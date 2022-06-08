@@ -6,6 +6,5 @@ The experiments use a variety of tools – Web Audio API, Visulizer.js,3D render
 Here's Link to Check it out. https://rhythumwinder.github.io/Musicvisulizer/
 
 
-!(https://user-images.githubusercontent.com/106617494/172683967-b7963ea8-f244-458b-851f-ff2013f51319.png)
-
+![ ](https://user-images.githubusercontent.com/106617494/172707973-ec8b2d5f-2b89-404f-983d-2b473b4ab612.png)
 
